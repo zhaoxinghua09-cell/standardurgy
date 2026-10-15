@@ -1,7 +1,7 @@
 ---
 name: standardurgy
 description: "Use when creating or escalating a standard, specification, or judgment-tier claim (L0-L4). 当需要创造或升级标准、规范或判据分层主张（L0-L4）时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
