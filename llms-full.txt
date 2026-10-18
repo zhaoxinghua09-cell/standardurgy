@@ -1,0 +1,46 @@
+# standardurgy — 完整文本 / Full text
+
+本文件为 llms.txt 标准的「完整版」，供长上下文模型一次性读取。
+This is the llms.txt "full" variant for long-context models.
+
+## 这是什么 / What this is
+
+`standardurgy` 是 LGD 命名体系下的一项**术语注册**声明，注册术语 *standardurgy*——创造标准的方法论。标准不是委员会投票的产物，是判据强度分层的工程。
+
+## 强度分层 / Strength tiers
+
+- L0 声明 declaration
+- L1 演示 demonstration
+- L2 证据 evidence
+- L3 证明 proof
+- L4 持续证明 sustained proof
+
+三律：有籍（编号与版本注册）、有证（判据可验证）、有门禁（修订受控留痕）。
+
+## 解决什么问题 / What it solves
+
+1. 标准靠委员会投票产生，可信度来源不明。
+2. 主张没有强度刻度，L0 表态被当成 L4 证明。
+3. 标准修订无门禁、不留痕，历史版本不可比。
+
+## 快速开始 / Quick start
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/standardurgy.git
+cd standardurgy
+sed -n '1,12p' README.md
+```
+
+## 触发词 / Trigger words
+
+标准创造 / 判据分层 / L0-L4 / 标准可信 / 标准修订 / standard methodology / strength tiers / specification / judgment-tier claim。
+
+## 许可与权利 / License & rights
+
+根目录 [LICENSE](LICENSE) 为 **Apache-2.0**（覆盖文档）；理论主张 **ARR**，允许注明出处引用。引用：`CITATION.cff` + DOI `10.5281/zenodo.23385209`。联系：zhaoxinghua09@gmail.com ｜ ORCID `0009-0001-0512-1237`。
+
+## 链接 / Links
+
+- 仓库: https://github.com/zhaoxinghua09-cell/standardurgy
+- DOI: https://doi.org/10.5281/zenodo.23385209
+- 注册索引: https://github.com/zhaoxinghua09-cell/placeholdurgy
