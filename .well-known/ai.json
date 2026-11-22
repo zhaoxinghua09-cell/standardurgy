@@ -1,7 +1,7 @@
 {
   "schema": "ai-manifest/v1",
   "repository": "zhaoxinghua09-cell/standardurgy",
-  "role": "规范/投稿仓：加 .well-known/ai.json + README 首屏窄声明",
+  "role": "Methodology repo: standards-engineering guide and framework for credible specifications; guidance, not a normative standard.",
   "what_it_is": "Standards methodology guide & framework for credible specs — 标准工程术：创造标准的方法论（LGD 元层家族）",
   "what_it_is_not": "Not a running commercial service. Not a third-party certification, compliance finding, or regulatory approval.",
   "reproduce": "See the README section \"运行测试 / Running the tests\"; commands are verbatim and require no private network.",
