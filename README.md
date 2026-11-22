@@ -19,6 +19,14 @@ related: [lgd-doctrine]
 
 # Standardurgy · 标准工程术
 
+**这是什么**：把“制定或升级一个标准、规范、分层判据”的过程写成可执行流程——从 L0 术语登记到 L4 判据分层，每一步都留下可核验的产物。
+
+**给谁用**：要把内部经验升级成对外可引用标准的团队；以及需要判断一份“标准”是否站得住的外部读者。
+
+**不是什么**：不是标准目录，也不是评级机构。它不认证任何第三方产物，只公开自己这套流程产出的文稿、检查项和证据。
+
+**English** — a step-by-step procedure for creating or escalating a standard, specification, or tiered judgment claim (L0–L4), producing a checkable artifact at each step. It is not a registry and not a rating body; it certifies nothing outside its own artifacts.
+
 ![LGD score](badge.svg "LGD machine-readability score")
 
 > Term Registration Claim · Registered: 2026-10-15 ｜ 命名注册声明 · 注册日期：2026-10-15
